@@ -1,0 +1,4 @@
+/.aws
+
+*/node_modules
+*terraform*
